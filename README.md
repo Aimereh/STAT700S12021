@@ -1,4 +1,4 @@
-STAT700 S1 2021
+# STAT700 S1 2021
 
 Auckland University of Technology (AUT) - STAT700 Applied Stochastic Models S1 2021
 
